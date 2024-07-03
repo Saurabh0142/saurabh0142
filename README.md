@@ -1,4 +1,9 @@
 ## Hi there 👋
+
+![Saurabh's Stats](https://github-readme-stats.vercel.app/api?username=Saurabh&theme=outrun&show_icons=true&hide_border=true&count_private=true)
+![Saurabh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saurabh&theme=outrun&hide_border=true)
+![Saurabh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh&theme=outrun&show_icons=true&hide_border=true&layout=compact)
+
 [![](https://visitcount.itsvg.in/api?id=saurabh&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 <!--
 **Saurabh0142/saurabh0142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
