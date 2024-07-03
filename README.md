@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![](https://visitcount.itsvg.in/api?id=saurabh&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 <!--
 **Saurabh0142/saurabh0142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
